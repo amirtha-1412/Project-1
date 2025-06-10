@@ -1,0 +1,20 @@
+.box{
+    background-color: blue;
+    padding: 10px;
+    border-color: blueviolet;
+}
+p{
+    color: yellow;
+    margin:0;
+    padding:0;
+}
+.white-text{
+    color: aliceblue;
+    padding: 15px;
+    background-color: red;
+    border:10;
+}
+#Outer-box{
+    border: 8px solid rgb(107,79,143);
+    padding: 10px;
+}
