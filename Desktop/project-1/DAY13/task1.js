@@ -1,0 +1,10 @@
+let fruits=["apple","banana","mango","cherry","strawberry"];
+console.log(fruits[3]);
+fruits.push("grapes");
+console.log(fruits);
+fruits.shift();
+console.log(fruits);
+console.log(fruits.length);
+fruits.reverse();
+console.log(fruits);
+fruits.forEach(fruits=>console.log(fruits));

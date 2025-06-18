@@ -1,0 +1,11 @@
+let a="sea";
+let b="food";
+console.log(a.concat(b));
+let flower=["rose","jasmine","lily","tulip"];
+flower.splice(1,2);
+console.log(flower);
+let c=[10,5,7,3,9];
+c.sort((x,y)=>x-y);
+console.log(c);
+console.log(c.includes(3));
+console.log(flower.indexOf("rose"));
